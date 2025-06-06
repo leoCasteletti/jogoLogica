@@ -1,7 +1,3 @@
-Com certeza! Analisei todos os arquivos que você enviou. Você criou uma aplicação C# Windows Forms completa e bem estruturada para um "Jogo de Lógica", com separação de responsabilidades (UI, Lógica, Acesso a Dados), o que é uma excelente prática.
-
-Como você mencionou que pretende postar no GitHub, preparei uma documentação completa que explica o que cada parte faz. Você pode usar este texto como base para o seu arquivo README.md no GitHub.
-
 Documentação do Projeto: Jogo de Lógica
 1. Visão Geral do Sistema
 Este projeto é uma aplicação desktop desenvolvida em C# com Windows Forms que implementa um "Jogo de Lógica". O objetivo do jogo é que o usuário adivinhe o número correto associado a um nome, com base em uma regra pré-definida. A aplicação salva o resultado de cada tentativa em um banco de dados SQL Server e exibe um histórico dos resultados.
